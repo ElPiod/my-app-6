@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-app-5/static/css/main.c3be7af8.css",
+    "main.js": "/my-app-5/static/js/main.fa82aebb.js",
+    "static/media/img-header.png": "/my-app-5/static/media/img-header.3dac1e285ed7df71de52.png",
+    "static/media/personne.png": "/my-app-5/static/media/personne.82a9b0a3bff559b8c52d.png",
+    "static/media/Rectangle 90.png": "/my-app-5/static/media/Rectangle 90.4cc050c453e3a1408a9b.png",
+    "static/media/imgPort_4.png": "/my-app-5/static/media/imgPort_4.1c3f8cff37caa2074c2f.png",
+    "static/media/Vector 2.png": "/my-app-5/static/media/Vector 2.28a83260db009e27523b.png",
+    "static/media/imgPort_1.png": "/my-app-5/static/media/imgPort_1.c60a75061ea8c1af2f4a.png",
+    "static/media/imgPort_3.png": "/my-app-5/static/media/imgPort_3.aa7f72a77091c303b298.png",
+    "static/media/imgPort_5.png": "/my-app-5/static/media/imgPort_5.755ec111743758b94b41.png",
+    "static/media/imgPort_2.png": "/my-app-5/static/media/imgPort_2.6558d92452a2d31ed4eb.png",
+    "index.html": "/my-app-5/index.html",
+    "main.c3be7af8.css.map": "/my-app-5/static/css/main.c3be7af8.css.map",
+    "main.fa82aebb.js.map": "/my-app-5/static/js/main.fa82aebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3be7af8.css",
+    "static/js/main.fa82aebb.js"
+  ]
+}
