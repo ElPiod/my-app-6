@@ -18,8 +18,8 @@ const Header = () => {
                <Container maxWidth="sm">
                     <Row>
                         <Col md={6} xs={12} className='d-flex flex-column'>
-                            <h3 className='text-header'>Hello ! je suis <span className='nom'>HOUSSEYNOU KENDE</span></h3>
-                            <h3>Développeur backend senior à Volkeno</h3>
+                            <h3 className='text-header'>Hello ! je suis <span className='nom'>HOUSSEYNOU KENDE</span> <br/>
+                            Développeur backend senior à Volkeno</h3>
                             <div className='contact-me d-flex justify-content-evenly'>
                                 <li><Phone className='icon-org'/> 76 605 84 14</li>
                                 <li><Envelope className='icon-org'/> hkend@gmail.com</li>
